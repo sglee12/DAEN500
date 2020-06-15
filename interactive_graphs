@@ -1,0 +1,3 @@
+%matplotlib notebook
+#call this just after importing all of your libraries at the top of the script, 
+ #and anaconda will make all of your graphs interactive with pan, selection zoom, etc.
